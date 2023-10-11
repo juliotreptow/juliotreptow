@@ -9,7 +9,7 @@ class aboutMe extends Developer {
 }
 ```
 
-> Bem-vindo(a) ao portfólio.
+> Bem-vindo(a) ao portfólio autoral.
 > Sinta-se a vontade para utilizar em seus projetos pessoais, não me responsabilizo pela utilização das hacking-tools de maneira maliciosa, foram criadas para estudo de cyber segurança.
 
 🔭 Sou desenvolvedor back-end, atualmente trabalho desenvolvendo API's das aplicações e procurando vulnerabilidades.
