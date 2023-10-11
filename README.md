@@ -1,5 +1,3 @@
-## 🐈‍⬛ Olá <strong>{ #@!$ }!</strong>
-
 ```
 import Developer from "@juliotreptow";
 
@@ -11,7 +9,7 @@ class aboutMe extends Developer {
 }
 ```
 
-> Bem-vindo(a) ao meu guia de portfólio autoral.
+> Bem-vindo(a) ao portfólio.
 > Sinta-se a vontade para utilizar em seus projetos pessoais, não me responsabilizo pela utilização das hacking-tools de maneira maliciosa, foram criadas para estudo de cyber segurança.
 
 🔭 Sou desenvolvedor back-end, atualmente trabalho desenvolvendo API's das aplicações e procurando vulnerabilidades.
@@ -58,9 +56,5 @@ class aboutMe extends Developer {
 
 <p align="left">
   <a href="https://instagram.com/julio.trept" target="_blank" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/julio.trept"/></a>
 </p>
-
-## ⭐ Infos
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliotreptow&show_icons=true)
